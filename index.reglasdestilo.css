@@ -1,0 +1,8 @@
+div > p {
+    border:#fabada 2px solid;
+}
+
+h2 + p {
+class: "importante"
+}
+
